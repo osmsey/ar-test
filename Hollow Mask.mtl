@@ -11,4 +11,4 @@ Ni 1.000000
 d 1.000000
 illum 2
 map_Kd \HMask_COL.png
-map_Kn \HMask_NOR.png
+map_Bump \HMask_NOR.png
