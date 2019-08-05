@@ -1242,31 +1242,31 @@
   ],
   "images": [
     {
-      "uri": "assets/textures/material_diffuse.png"
+      "uri": "textures/material_diffuse.png"
     },
     {
-      "uri": "assets/textures/material_specularGlossiness.png"
+      "uri": "textures/material_specularGlossiness.png"
     },
     {
-      "uri": "assets/textures/material_emissive.png"
+      "uri": "textures/material_emissive.png"
     },
     {
-      "uri": "assets/textures/Mat_0_diffuse.png"
+      "uri": "textures/Mat_0_diffuse.png"
     },
     {
-      "uri": "assets/textures/Mat_0_emissive.png"
+      "uri": "textures/Mat_0_emissive.png"
     },
     {
-      "uri": "assets/textures/Mat_1_diffuse.jpg"
+      "uri": "textures/Mat_1_diffuse.jpg"
     },
     {
-      "uri": "assets/textures/Mat_1_emissive.jpg"
+      "uri": "textures/Mat_1_emissive.jpg"
     },
     {
-      "uri": "assets/textures/Mat_2_diffuse.jpg"
+      "uri": "textures/Mat_2_diffuse.jpg"
     },
     {
-      "uri": "assets/textures/Mat_2_emissive.jpg"
+      "uri": "textures/Mat_2_emissive.jpg"
     }
   ],
   "materials": [
